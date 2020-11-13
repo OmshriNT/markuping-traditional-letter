@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    line-height: 1.5;
+    margin: auto;
+    text-align: justify;
+    width: 60%;
+}
+
+.sender-column {
+    text-align: right;
+    text-decoration: none;
+}
+
+span {
+    display: block;
+}
+
+.dance {
+    margin: 0%;
+}
+
+blockquote {
+    margin-top: 0%;
+}
+
+.salutation {
+    margin-bottom: 10px;
+}
+
+.citation {
+    margin: 0%;
+}
